@@ -14,9 +14,9 @@
 
 Construindo projetos que unem **desenvolvimento web** e **infraestrutura**, com foco em automação, CI/CD e cloud. Sempre aprendendo e documentando a jornada.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bernardo--lucas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/bernardo-lucas-lima)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bernardo--lucas--lima-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/bernardo-lucas-lima)
 [![Gmail](https://img.shields.io/badge/Email-bee.lucasmlb@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bee.lucasmlb@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-beexpz-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/beexpz)
+[![GitHub](https://img.shields.io/badge/GitHub-beelucas-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/beelucas)
 
 ---
 
@@ -51,7 +51,11 @@ Construindo projetos que unem **desenvolvimento web** e **infraestrutura**, com 
 
 ---
 
-## Projetos em Destaque
+## Projetos
+
+> Em desenvolvimento — acompanhe minha evolução pelos repositórios abaixo.
+
+![Em desenvolvimento](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=flat-square)
 
 | Projeto | Descrição | Stack |
 |--------|-----------|-------|
