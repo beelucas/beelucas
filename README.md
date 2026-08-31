@@ -60,15 +60,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=beelucas&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beelucas&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 <div align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </div>
