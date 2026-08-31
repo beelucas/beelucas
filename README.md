@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas! 👋
+# Olá, eu sou o Bernardo Lucas! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;DevOps+%26+Cloud+Enthusiast;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 - 🌱 Aprendendo **Flutter** e aprofundando em **React**
 - 💼 Construindo projetos que unem **desenvolvimento e infraestrutura**
 - 📍 Curitiba, Brasil
-- 📫 Me encontre no [LinkedIn](#) ou por e-mail: **seu@email.com**
+- 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/bernardo-lucas-9749b6281/) ou por e-mail: bee.lucasmlb@gmail.com 
 
 ---
 
